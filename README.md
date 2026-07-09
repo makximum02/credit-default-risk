@@ -1,9 +1,3 @@
-# Credit Risk (from scratch)
-
-A practice rebuild of my credit default risk project,
-created folder-by-folder by hand to learn project setup.
-
-
 # Credit Default Risk - Analysis & Modeling
 
 Predicting which borrowers are likely to default, using the "Give Me Some Credit" Kaggle dataset (~150,000 borrowers).
